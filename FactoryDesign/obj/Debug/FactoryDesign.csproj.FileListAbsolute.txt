@@ -1,0 +1,7 @@
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.csprojAssemblyReference.cache
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.csproj.CoreCompileInputs.cache
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\bin\Debug\FactoryDesign.exe.config
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\bin\Debug\FactoryDesign.exe
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\bin\Debug\FactoryDesign.pdb
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.exe
+C:\Users\pvashisht\source\repos\FactoryDesign\FactoryDesign\obj\Debug\FactoryDesign.pdb
