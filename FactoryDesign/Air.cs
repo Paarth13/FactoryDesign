@@ -15,13 +15,13 @@ namespace FactoryDesign
 
         public void Save()
         {
-
+            Console.WriteLine("IN air saving");
         }
 
 
         public void Book()
         {
-
+            Console.WriteLine("IN air booking");
         }
     }
 }
